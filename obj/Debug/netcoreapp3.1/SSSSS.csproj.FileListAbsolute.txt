@@ -1,0 +1,13 @@
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.exe
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.deps.json
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.runtimeconfig.json
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.runtimeconfig.dev.json
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.dll
+C:\Users\fevzi\source\repos\SSSSS\bin\Debug\netcoreapp3.1\SSSSS.pdb
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.csprojAssemblyReference.cache
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.AssemblyInfoInputs.cache
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.AssemblyInfo.cs
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.csproj.CoreCompileInputs.cache
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.dll
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.pdb
+C:\Users\fevzi\source\repos\SSSSS\obj\Debug\netcoreapp3.1\SSSSS.genruntimeconfig.cache
